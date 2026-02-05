@@ -8,7 +8,7 @@ A personal portfolio website built using HTML, CSS, and JavaScript to showcase m
 - Skills and experience
 
 ## Live Demo
-https://gitanjaligamane.github.io/Portfolio/
+[https://gitanjaligamane.github.io/Portfolio/](https://gitanjali-gamane.vercel.app/)
 
 ## Technologies
 HTML, CSS, Bootstrap, JavaScript
